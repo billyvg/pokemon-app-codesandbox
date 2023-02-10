@@ -1,0 +1,14 @@
+{
+  "name": "styled-components",
+  "version": "1.0.0",
+  "description": "Copied source from https://github.com/styled-components/styled-components#basic.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@sentry/browser": "7.31.1",
+    "@sentry/react": "7.31.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "5.3.6"
+  }
+}
